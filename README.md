@@ -1,4 +1,4 @@
-# 💀 E1expl01t 
+# 💀 E1exp101t 
 <p align="center">
   <img src="https://github.com/E1exp101t/E1exp101t/blob/main/Neon%20ASCII%20Hacker%20Terminal%20Banner.png" alt="Cybersecurity hacker banner" width="100%">
 </p>
