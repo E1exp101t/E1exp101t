@@ -113,10 +113,10 @@ Learn. Practice. Build. Secure.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elexpl0it/Elexpl0it/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
 </p>
+## 🐍 My Contribution Snake
 
-*To activate the snake animation, configure a GitHub Actions workflow using [Platane/snk](https://github.com/Platane/snk).*
-
----
+![GitHub Contribution Snake](https://raw.githubusercontent.com/E1exp101t/E1exp101t/output/github-contribution-grid-snake.svg)
+--
 
 ## 🌐 Find Me Online
 
