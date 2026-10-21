@@ -1,4 +1,7 @@
 # 💀 E1expl01t 
+<p align="center">
+  <img src="https://github.com/E1exp101t/E1exp101t/blob/main/Neon%20ASCII%20Hacker%20Terminal%20Banner.png" alt="Cybersecurity hacker banner" width="100%">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Welcome+to+my+Cyber+Lab;Hack+The+Box+%7C+TryHackMe;Learning+Ethical+Hacking;Breaking+Things+to+Understand+Them;Securing+the+Digital+World" alt="Typing SVG" />
