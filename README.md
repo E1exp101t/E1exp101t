@@ -99,24 +99,9 @@ Learn. Practice. Build. Secure.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elexpl0it&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="Elexpl0it's GitHub statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elexpl0it&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Most used programming languages" />
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Elexpl0it/Elexpl0it/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
-</p>
-## 🐍 My Contribution Snake
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/E1exp101t/E1exp101t/output/github-contribution-grid-snake.svg)
 --
